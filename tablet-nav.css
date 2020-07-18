@@ -1,0 +1,19 @@
+@media (min-width: 768px) {
+
+    li {
+        list-style-type: none;
+    }
+
+    ul {
+        display: flex;
+        justify-content: space-evenly;
+    }
+
+
+}
+
+
+
+
+
+
